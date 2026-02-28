@@ -24,17 +24,18 @@ Os testes foram executados manualmente utilizando o Postman, com base nos casos 
 
 ## Estrutura do repositório
 
-´´´desafio-qa-api_spread
+```text
+desafio-qa-api_spread
 ├── casos-de-teste
-│ └── Casos_de_Teste_API_ViaCEP.docx
+│   └── Casos_de_Teste_API_ViaCEP.docx
 ├── evidencias
-│ ├── CT01_Consulta_CEP_Valido.png
-│ ├── CT04_CEP_Inexistente.png
-│ └── ...
+│   ├── CT01_Consulta_CEP_Valido.png
+│   ├── CT04_CEP_Inexistente.png
+│   └── ...
 ├── postman
-│ └── ViaCEP_Postman_Collection.json
+│   └── ViaCEP_Postman_Collection.json
 ├── relatorio
-│ └── newman-run-report.html
+│   └── newman-run-report.html
 └── README.md
 
 
