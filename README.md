@@ -1,4 +1,4 @@
-## Desafio Técnico – Testes de API (ViaCEP)
+# Desafio Técnico – Testes de API (ViaCEP)
 
 ## Objetivo
 Este repositório contém a execução do desafio técnico de QA, cujo objetivo foi validar o funcionamento de uma API pública por meio da definição e execução de casos de teste, bem como a geração dos artefatos solicitados.
