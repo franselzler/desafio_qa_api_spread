@@ -22,7 +22,7 @@ Os testes foram executados manualmente utilizando o Postman, com base nos casos 
 - Newman – execução da collection via linha de comando e geração de relatório automatizado
 - GitHub – versionamento e disponibilização dos artefatos
 
-## Estrutura do repositório
+## 📂 Estrutura do repositório
 
 ```text
 desafio-qa-api_spread
@@ -37,7 +37,7 @@ desafio-qa-api_spread
 ├── relatorio
 │   └── newman-run-report.html
 └── README.md
-
+```
 
 ## Relatório Final de Execução dos Testes
 Todos os casos de teste definidos foram executados com sucesso.
