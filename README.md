@@ -31,12 +31,12 @@ desafio-qa-api_spread
 │   ├── README.md
 ├── evidencias
 │   ├── CT01 _Fluxo_Basico_Consulta_de_CEP_Valido.mp4
-│   ├── CT02_Fluxo_Alternativo_CEP_Valido_Com_Hifen
-│   ├── CT03_Fluxo_Alternativo_CEP_Valido_Sem_Complemento
-│   ├── CT04_Fluxo_De_Excecao_CEP_Inexistente
-│   ├── CT05_Fluxo_De_Excecao_CEP_Com_Quantidade_Digitos_Invalida
-│   ├── CT06_Fluxo_De_Excecao_CEP_Com_Caracteres_Alfanumericos
-│   ├── CT07_Validacao_Da_Estrutura_Da_Resposta
+│   ├── CT02_Fluxo_Alternativo_CEP_Valido_Com_Hifen.mp4
+│   ├── CT03_Fluxo_Alternativo_CEP_Valido_Sem_Complemento.mp4
+│   ├── CT04_Fluxo_De_Excecao_CEP_Inexistente.mp4
+│   ├── CT05_Fluxo_De_Excecao_CEP_Com_Quantidade_Digitos_Invalida.mp4
+│   ├── CT06_Fluxo_De_Excecao_CEP_Com_Caracteres_Alfanumericos.mp4
+│   ├── CT07_Validacao_Da_Estrutura_Da_Resposta.mp4
 │   └── README.md
 ├── postman
 │   └── ViaCEP_Postman_Collection.json
