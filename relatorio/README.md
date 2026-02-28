@@ -9,4 +9,4 @@ O relatório apresenta informações como:
 - Tempo médio de resposta
 
 Arquivo:
-- newman-run-report.html
+- Newman_Run_Report.html
