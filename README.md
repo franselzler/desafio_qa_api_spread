@@ -25,7 +25,7 @@ Os testes foram executados manualmente utilizando o Postman, com base nos casos 
 ## Estrutura do repositório
 
 ```text
-desafio-qa-api_spread
+desafio_qa_api_spread
 ├── casos-de-teste
 │   └── Casos_de_Teste_API_ViaCEP.pdf
 │   ├── README.md
