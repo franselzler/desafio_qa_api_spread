@@ -27,9 +27,10 @@ Os testes foram executados manualmente utilizando o Postman, com base nos casos 
 ```text
 desafio-qa-api_spread
 ├── casos-de-teste
-│   └── Casos_de_Teste_API_ViaCEP.docx
+│   └── Casos_de_Teste_API_ViaCEP.pdf
+│   ├── README.md
 ├── evidencias
-│   ├── CT01_Consulta_CEP_Valido.png
+│   ├── CT01 - Fluxo Básico - Consulta CEP válido.png
 │   ├── CT04_CEP_Inexistente.png
 │   └── ...
 ├── postman
