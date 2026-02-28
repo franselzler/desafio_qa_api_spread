@@ -30,13 +30,20 @@ desafio-qa-api_spread
 │   └── Casos_de_Teste_API_ViaCEP.pdf
 │   ├── README.md
 ├── evidencias
-│   ├── CT01 - Fluxo Básico - Consulta CEP válido.png
-│   ├── CT04_CEP_Inexistente.png
-│   └── ...
+│   ├── CT01 _Fluxo_Basico_Consulta_de_CEP_Valido.mp4
+│   ├── CT02_Fluxo_Alternativo_CEP_Valido_Com_Hifen
+│   ├── CT03_Fluxo_Alternativo_CEP_Valido_Sem_Complemento
+│   ├── CT04_Fluxo_De_Excecao_CEP_Inexistente
+│   ├── CT05_Fluxo_De_Excecao_CEP_Com_Quantidade_Digitos_Invalida
+│   ├── CT06_Fluxo_De_Excecao_CEP_Com_Caracteres_Alfanumericos
+│   ├── CT07_Validacao_Da_Estrutura_Da_Resposta
+│   └── README.md
 ├── postman
 │   └── ViaCEP_Postman_Collection.json
+│   ├── README.md
 ├── relatorio
-│   └── newman-run-report.html
+│   └── Newman_Run_Report.html
+│   ├── README.md
 └── README.md
 ```
 
