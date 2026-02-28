@@ -1,4 +1,4 @@
-# Casos de Teste
+## Casos de Teste
 
 Esta pasta contém os casos de teste elaborados para validação funcional da API ViaCEP.
 
